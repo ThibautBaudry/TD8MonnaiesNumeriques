@@ -8,6 +8,8 @@
 
 2)Create a mintable ERC721 smart contract
 
+TxHash:0x6645aae876c3f26624332d1803a8f770a1726264e9a924fa5ed2ca762765b17f
+
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Question2TD8.png)
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Question2TD8suite.png)
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Question2TD8suite2.png)
