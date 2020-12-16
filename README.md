@@ -16,6 +16,8 @@ TxHash:0x6645aae876c3f26624332d1803a8f770a1726264e9a924fa5ed2ca762765b17f
 
 3)Create a minter contract that is allowed to mint ERC721 tokens
 
+TxHash:0xb609289b571d287ab9717153fec74f94230deaaba74b14de9f1409ef628e761e
+
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Question3TD8.png)
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Question3TD8suite.png)
 
@@ -25,6 +27,8 @@ TxHash:0x6645aae876c3f26624332d1803a8f770a1726264e9a924fa5ed2ca762765b17f
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Question4TD8MN%20suite.png)
 
 5)Get whitelisted on contract 0x53bb77F35df71f463D1051061B105Aafb9A87ea1 on Rinkeby
+
+TxHash:0x7aee133c4e0fa9aaf5aae63de7fd9f63e0bc3e64f90fe31c042bea104b7745fc
 
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Question5MN.png)
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Question5MNsuite.png)
