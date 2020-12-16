@@ -37,3 +37,6 @@ TxHash:0x8c8ab6da0b4093e6e93107e3923e384ce006cc7fd191d296b5f8d9b8b4fa5e7f
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Capture%20d’écran%202020-12-16%20à%2022.34.12.png)
 ![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Capture%20d’écran%202020-12-16%20à%2022.41.25.png)
 
+7)Create on your contract a function claimToken() that receives a signed hash from the contract deployer and a token number to mint a token
+
+![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Capture%20d’écran%202020-12-16%20à%2023.19.22.png)
