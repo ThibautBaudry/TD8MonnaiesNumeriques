@@ -32,3 +32,5 @@ TxHash:0x6645aae876c3f26624332d1803a8f770a1726264e9a924fa5ed2ca762765b17f
 
 6)Claim a token on contract 0x3e2E325Ffd39BBFABdC227D31093b438584b7FC3 through contract 0x53bb77F35df71f463D1051061B105Aafb9A87ea1
 
+![Alt text](https://github.com/ThibautBaudry/TD8MonnaiesNumeriques/blob/main/Capture%20d’écran%202020-12-16%20à%2022.34.12.png)
+
